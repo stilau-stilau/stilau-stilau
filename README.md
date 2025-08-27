@@ -84,44 +84,6 @@ I'm a passionate developer with expertise in low-level and high-level programmin
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/stilau-stilau/stilau-stilau/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=stilau-stilau&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 Real-time Stats
-
-<div align="center">
-
-### 📅 Yearly Progress
-![Progress](https://github-readme-streak-stats.herokuapp.com/?user=stilau-stilau&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-### 📈 Profile Views
-![](https://komarev.com/ghpvc/?username=stilau-stilau&color=00D9FF&style=flat-square&label=Profile+Views)
-
-### ⚡ Quick Stats
-![GitHub followers](https://img.shields.io/github/followers/stilau-stilau?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/stilau-stilau?style=social)
-
-</div>
-
----
-
 ## 🎯 Current Repositories
 
 <div align="center">
