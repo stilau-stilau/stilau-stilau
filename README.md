@@ -43,6 +43,7 @@ I'm a passionate developer with expertise in low-level and high-level programmin
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**& other**
 
 </div>
 
@@ -77,7 +78,7 @@ I'm a passionate developer with expertise in low-level and high-level programmin
 
 <div align="center">
 
-[![Stilau's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stilau-stilau&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Stilau's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stilau-stilau&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -87,7 +88,7 @@ I'm a passionate developer with expertise in low-level and high-level programmin
 
 <div align="center">
 
-![Snake animation](https://github.com/stilau-stilau/stilau-stilau/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/stilau-stilau/stilau-stilau/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -97,7 +98,7 @@ I'm a passionate developer with expertise in low-level and high-level programmin
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stilau-stilau&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stilau-stilau&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -108,14 +109,14 @@ I'm a passionate developer with expertise in low-level and high-level programmin
 <div align="center">
 
 ### 📅 Yearly Progress
-![Progress](https://github-readme-streak-stats.herokuapp.com/?user=stilau-stilau&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![Progress](https://github-readme-streak-stats.herokuapp.com/?user=stilau-stilau&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 ### 📈 Profile Views
 ![](https://komarev.com/ghpvc/?username=stilau-stilau&color=00D9FF&style=flat-square&label=Profile+Views)
 
-### ⏰ Coding Time This Week
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### ⚡ Quick Stats
+![GitHub followers](https://img.shields.io/github/followers/stilau-stilau?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/stilau-stilau?style=social)
 
 </div>
 
@@ -125,7 +126,7 @@ I'm a passionate developer with expertise in low-level and high-level programmin
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stilau-stilau&repo=your-main-repo&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&hide_border=true)](https://github.com/stilau-stilau/your-main-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stilau-stilau&repo=stilau-stilau&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&hide_border=true)](https://github.com/stilau-stilau/stilau-stilau)
 
 </div>
 
