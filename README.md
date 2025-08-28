@@ -12,11 +12,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a passionate developer with expertise in low-level and high-level programming languages. I love building efficient systems and contributing to open-source projects.
+I'm a passionate developer with expertise in low-level and high-level programming languages. I love building efficient systems and contributing to projects.
 
-- 🔭 Currently working on various open-source projects
+- 🔭 Currently working on various projects
 - 🌱 Always learning new technologies and improving my skills
-- 💬 Ask me about system programming, web development, or assembly
 - ⚡ Fun fact: I enjoy optimizing code for performance
 
 <br clear="right"/>
